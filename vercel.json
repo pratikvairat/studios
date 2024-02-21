@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "https://chat-server-0mg6.onrender.com"
+    }
+  ]
+}
